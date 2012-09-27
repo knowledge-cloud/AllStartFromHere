@@ -1,0 +1,601 @@
+% This file was created with JabRef 2.7.
+% Encoding: UTF8
+
+@INPROCEEDINGS{Alves:2012:AFS:2237867.2237877,
+  author = {Alves, Hugo and Santanch\`{e}, Andr{\'e}},
+  title = {Abstract framework for social ontologies and folksonomized ontologies},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {10:1--10:4},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {2237877},
+  articleno = {10},
+  doi = {10.1145/2237867.2237877},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Abstract Framework for Social Ontologies and Folksonomizd Ontologis.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  keywords = {abstract model, folksonomy, information content, ontology, semantic
+	similarity},
+  location = {Scottsdale, Arizona},
+  numpages = {4},
+  url = {http://doi.acm.org/10.1145/2237867.2237877}
+}
+
+@INPROCEEDINGS{Angelou2012,
+  author = {Angelou, Evangelos and Papailiou, Nikolaos and Konstantinou, Ioannis
+	and Tsoumakos, Dimitrios and Koziris, Nectarios},
+  title = {Automatic scaling of selective SPARQL joins using the TIRAMOLA system},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {1:1--1:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:3]},
+  acmid = {2237868},
+  articleno = {1},
+  doi = {10.1145/2237867.2237868},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Automatic Scaling of Selective SPARQL Joins Using the TIRMOLA System.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237868}
+}
+
+@INPROCEEDINGS{Buneman2011,
+  author = {Buneman, Peter and Cheney, James and Lindley, Sam and M\"{u}ller,
+	Heiko},
+  title = {DBWiki: a structured wiki for curated data and collaborative data
+	management},
+  booktitle = {Proceedings of the 2011 ACM SIGMOD International Conference on Management
+	of data},
+  year = {2011},
+  series = {SIGMOD '11},
+  pages = {1335--1338},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1989491},
+  doi = {10.1145/1989323.1989491},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/DBWiki\: A Structured Wiki for Curated Data and Collaborative Data Managemnt.pdf:PDF},
+  isbn = {978-1-4503-0661-4},
+  keywords = {curation, databases, wikis},
+  location = {Athens, Greece},
+  numpages = {4},
+  url = {http://doi.acm.org/10.1145/1989323.1989491}
+}
+
+@INPROCEEDINGS{Duan2011,
+  author = {Duan, Songyun and Kementsietsidis, Anastasios and Srinivas, Kavitha
+	and Udrea, Octavian},
+  title = {Apples and oranges: a comparison of RDF benchmarks and real RDF datasets},
+  booktitle = {Proceedings of the 2011 ACM SIGMOD International Conference on Management
+	of data},
+  year = {2011},
+  series = {SIGMOD '11},
+  pages = {145--156},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {1989340},
+  doi = {10.1145/1989323.1989340},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Apples and Oranges\: A Comparison of RDF Bnchmrks and Real RDF Datasets.pdf:PDF},
+  isbn = {978-1-4503-0661-4},
+  keywords = {RDF, benchmark},
+  location = {Athens, Greece},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/1989323.1989340}
+}
+
+@INPROCEEDINGS{Hakimov2012,
+  author = {Hakimov, Sherzod and Oto, Salih Atilay and Dogdu, Erdogan},
+  title = {Named entity recognition and disambiguation using linked data and
+	graph-based centrality scoring},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {4:1--4:7},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237871},
+  articleno = {4},
+  doi = {10.1145/2237867.2237871},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Named Entity Recognition and Disambiguation using Linkd Data and Graph-based Centrality Scoring.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  keywords = {DBpedia, centrality algorithms, closeness centrality, linked data,
+	named entity, named entity disambiguation, semantic databases, text
+	annotation},
+  location = {Scottsdale, Arizona},
+  numpages = {7},
+  url = {http://doi.acm.org/10.1145/2237867.2237871}
+}
+
+@INPROCEEDINGS{Harth:2012:DTL:2213836.2213909,
+  author = {Harth, Andreas and Hose, Katja and Schenkel, Ralf},
+  title = {Database techniques for linked data management},
+  booktitle = {Proceedings of the 2012 ACM SIGMOD International Conference on Management
+	of Data},
+  year = {2012},
+  series = {SIGMOD '12},
+  pages = {597--600},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2213909},
+  doi = {10.1145/2213836.2213909},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Database Techniques for Linked Data Management.pdf:PDF},
+  isbn = {978-1-4503-1247-9},
+  keywords = {dataspaces, distributed databases, linked data, query processing,
+	rdf, semantic web, sparql},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {4},
+  url = {http://doi.acm.org/10.1145/2213836.2213909}
+}
+
+@INPROCEEDINGS{Hocssucu2011,
+  author = {Ho\c{s}sucu, Alp G\"{o}khan and Ayyildiz, Halil and G\"{o}kt\"{u}rk,
+	Ziya \"{O}zkan},
+  title = {Concept disambiguation exploiting semantic databases},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {6:1--6:6},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {1999305},
+  articleno = {6},
+  doi = {10.1145/1999299.1999305},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Concept Disambiguation Exploiting Semantic Databases.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {concept disambiguation, linked data, ontology, semantic databases},
+  location = {Athens, Greece},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/1999299.1999305}
+}
+
+@INPROCEEDINGS{Hose2012,
+  author = {Hose, Katja and Schenkel, Ralf},
+  title = {Towards benefit-based RDF source selection for SPARQL queries},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {2:1--2:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237869},
+  articleno = {2},
+  doi = {10.1145/2237867.2237869},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Towards Beneﬁt-Based RDF Source Selection for SPARQL Queries.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  keywords = {RDF, SPARQL, distributed query processing, semantic web},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237869}
+}
+
+@INPROCEEDINGS{Jitkajornwanich2011,
+  author = {Jitkajornwanich, Kulsawasd and Elmasri, Ramez and Li, Chengkai and
+	McEnery, John},
+  title = {Formalization of 2-D spatial ontology and OWL/Prot\ég\é realization},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {9:1--9:7},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1999308},
+  articleno = {9},
+  doi = {10.1145/1999299.1999308},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Formalization of 2-D Spatial Ontology and OWL Protégé Realization.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {ontology, prot{\'e}g{\'e}, semantic web, spatial database},
+  location = {Athens, Greece},
+  numpages = {7},
+  url = {http://doi.acm.org/10.1145/1999299.1999308}
+}
+
+@INPROCEEDINGS{Konstantopoulos2011,
+  author = {Konstantopoulos, Stasinos and Archer, Phil},
+  title = {POWDER and the multi million-triple store},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {2:1--2:6},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1999301},
+  articleno = {2},
+  doi = {10.1145/1999299.1999301},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/POWDER and the Multi Million-Triple Store.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {POWDER, RDF, efficient storage},
+  location = {Athens, Greece},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/1999299.1999301}
+}
+
+@INPROCEEDINGS{Leblay2012,
+  author = {Leblay, Julien},
+  title = {SPARQL query answering with bitmap indexes},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {9:1--9:4},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237876},
+  articleno = {9},
+  doi = {10.1145/2237867.2237876},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/SPARQL query answering with bitmap indexes.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  keywords = {SPARQL, query answering, storage model},
+  location = {Scottsdale, Arizona},
+  numpages = {4},
+  url = {http://doi.acm.org/10.1145/2237867.2237876}
+}
+
+@INPROCEEDINGS{Lian:2011:EQA:1989323.1989341,
+  author = {Lian, Xiang and Chen, Lei},
+  title = {Efficient query answering in probabilistic RDF graphs},
+  booktitle = {Proceedings of the 2011 ACM SIGMOD International Conference on Management
+	of data},
+  year = {2011},
+  series = {SIGMOD '11},
+  pages = {157--168},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1989341},
+  doi = {10.1145/1989323.1989341},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Efﬁcient Query Answering in Probabilistic RDF Graphs.pdf:PDF},
+  isbn = {978-1-4503-0661-4},
+  keywords = {RDF, probabilistic RDF graph, probabilistic data},
+  location = {Athens, Greece},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/1989323.1989341}
+}
+
+@INPROCEEDINGS{Lin2012,
+  author = {Lin, Jimmy and Kolcz, Alek},
+  title = {Large-scale machine learning at twitter},
+  booktitle = {Proceedings of the 2012 ACM SIGMOD International Conference on Management
+	of Data},
+  year = {2012},
+  series = {SIGMOD '12},
+  pages = {793--804},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2213958},
+  doi = {10.1145/2213836.2213958},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Large-Scale Machine Learning at Twitter.pdf:PDF},
+  isbn = {978-1-4503-1247-9},
+  keywords = {ensembles, logistic regression, online learning, stochastic gradient
+	descent},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/2213836.2213958}
+}
+
+@INPROCEEDINGS{Losemann2012,
+  author = {Losemann, Katja},
+  title = {Foundations of regular expressions in XML schema languages and SPARQL},
+  booktitle = {Proceedings of the on SIGMOD/PODS 2012 PhD Symposium},
+  year = {2012},
+  series = {PhD '12},
+  pages = {39--44},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2213609},
+  doi = {10.1145/2213598.2213609},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Foundations of Regular Expressions in XML Schema Languages and SPARQL.pdf:PDF},
+  isbn = {978-1-4503-1326-1},
+  keywords = {query evaluation, regular expressions, schema languages},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/2213598.2213609}
+}
+
+@INPROCEEDINGS{McBrien2012,
+  author = {McBrien, Peter and Rizopoulos, Nikos and Smith, Andrew Charles},
+  title = {Type inference methods and performance for data in an RDBMS},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {6:1--6:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237873},
+  articleno = {6},
+  doi = {10.1145/2237867.2237873},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Type Inference Methods and Performance for Data in an RDBMS.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237873}
+}
+
+@INPROCEEDINGS{Mulay2012,
+  author = {Mulay, Kunal and Kumar, P. Sreenivasa},
+  title = {SPOVC: a scalable RDF store using horizontal partitioning and column
+	oriented DBMS},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {8:1--8:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237875},
+  articleno = {8},
+  doi = {10.1145/2237867.2237875},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/SPOVC\: A scalable RDF store using horizontal partitioning and column oriented DBMS.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237875}
+}
+
+@INPROCEEDINGS{Ozdikis2011,
+  author = {Ozdikis, Ozer and Orhan, Fatih and Danismaz, Furkan},
+  title = {Ontology-based recommendation for points of interest retrieved from
+	multiple data sources},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {1:1--1:6},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1999300},
+  articleno = {1},
+  doi = {10.1145/1999299.1999300},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Ontology-based Recommendation for Points of Interest Rtrieved from Multiple Data Sources.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {augmented reality applications, information integration, location
+	based services, mapping and merging, ontology reuse},
+  location = {Athens, Greece},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/1999299.1999300}
+}
+
+@INPROCEEDINGS{Paton2012,
+  author = {Paton, Norman W. and Christodoulou, Klitos and Fernandes, Alvaro
+	A. A. and Parsia, Bijan and Hedeler, Cornelia},
+  title = {Pay-as-you-go data integration for linked data: opportunities, challenges
+	and architectures},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {3:1--3:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237870},
+  articleno = {3},
+  doi = {10.1145/2237867.2237870},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Pay-as-you-go Data Integration for Linked Data\: opportunities, challenges and architctures.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237870}
+}
+
+@INPROCEEDINGS{Picalausa2011,
+  author = {Picalausa, Francois and Vansummeren, Stijn},
+  title = {What are real SPARQL queries like?},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {7:1--7:6},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1999306},
+  articleno = {7},
+  doi = {10.1145/1999299.1999306},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/What are real SPARQL queries like?.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {SPARQL, acyclicity, conjunctive queries, log analysis},
+  location = {Athens, Greece},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/1999299.1999306}
+}
+
+@INPROCEEDINGS{Pound:2011:FDS:1989323.1989342,
+  author = {Pound, Jeffrey and Paparizos, Stelios and Tsaparas, Panayiotis},
+  title = {Facet discovery for structured web search: a query-log mining approach},
+  booktitle = {Proceedings of the 2011 ACM SIGMOD International Conference on Management
+	of data},
+  year = {2011},
+  series = {SIGMOD '11},
+  pages = {169--180},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1989342},
+  doi = {10.1145/1989323.1989342},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Facet Discovery for Structured Web Search\: A Query-log Mining Approach.pdf:PDF},
+  isbn = {978-1-4503-0661-4},
+  keywords = {faceted search, facets, structured web-search},
+  location = {Athens, Greece},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/1989323.1989342}
+}
+
+@INPROCEEDINGS{Preda2010,
+  author = {Preda, Nicoleta and Kasneci, Gjergji and Suchanek, Fabian M. and
+	Neumann, Thomas and Yuan, Wenjun and Weikum, Gerhard},
+  title = {Active knowledge: dynamically enriching RDF knowledge bases by web
+	services},
+  booktitle = {Proceedings of the 2010 ACM SIGMOD International Conference on Management
+	of data},
+  year = {2010},
+  series = {SIGMOD '10},
+  pages = {399--410},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {1807212},
+  doi = {10.1145/1807167.1807212},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Active Knowledge\: Dynamically Enriching RDF Knowledge Bases by Web Servics.pdf:PDF},
+  isbn = {978-1-4503-0032-2},
+  keywords = {binding patterns, information integration, knowledge bases, query
+	mediation, rdf, semantics, warehousing},
+  location = {Indianapolis, Indiana, USA},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/1807167.1807212}
+}
+
+@INPROCEEDINGS{Quix2011,
+  author = {Quix, Christoph and Roy, Pratanu and Kensche, David},
+  title = {Automatic selection of background knowledge for ontology matching},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {5:1--5:7},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {1999304},
+  articleno = {5},
+  doi = {10.1145/1999299.1999304},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Automatic Selection of Background Knowledge for Ontology Matching.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {background knowledge, ontology matching, schema matching},
+  location = {Athens, Greece},
+  numpages = {7},
+  url = {http://doi.acm.org/10.1145/1999299.1999304}
+}
+
+@INPROCEEDINGS{Ravindra2012,
+  author = {Ravindra, Padmashree and Kim, HyeongSik and Anyanwu, Kemafor},
+  title = {To nest or not to nest, when and how much: representing intermediate
+	results of graph pattern queries in MapReduce based processing},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {5:1--5:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2237872},
+  articleno = {5},
+  doi = {10.1145/2237867.2237872},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/To nest or not to nest, when and how much\: representing intermediate results of graph pattern queries in MapReduce based processing.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  keywords = {MapReduce, graph pattern queries, multi-valued properties},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237872}
+}
+
+@INPROCEEDINGS{Schatzle2011,
+  author = {Sch\"{a}tzle, Alexander and Przyjaciel-Zablocki, Martin and Lausen,
+	Georg},
+  title = {PigSPARQL: mapping SPARQL to Pig Latin},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {4:1--4:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1999303},
+  articleno = {4},
+  doi = {10.1145/1999299.1999303},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/PigSPARQL\: Mapping SPARQL to Pig Latin.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  location = {Athens, Greece},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/1999299.1999303}
+}
+
+@INPROCEEDINGS{Stefanidakis2012,
+  author = {Stefanidakis, Michalis and Papadakis, Ioannis},
+  title = {A decentralized infrastructure for the efficient management of resources
+	in the web of data},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {7:1--7:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {2237874},
+  articleno = {7},
+  doi = {10.1145/2237867.2237874},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/A decentralized infrastructure for the efﬁcient managemnt of resources in the web of data.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  keywords = {backlinks, linked data, protocol, registry},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237874}
+}
+
+@INPROCEEDINGS{Venkataramani2012,
+  author = {Venkataramani, Venkateshwaran and Amsden, Zach and Bronson, Nathan
+	and Cabrera III, George and Chakka, Prasad and Dimov, Peter and Ding,
+	Hui and Ferris, Jack and Giardullo, Anthony and Hoon, Jeremy and
+	Kulkarni, Sachin and Lawrence, Nathan and Marchukov, Mark and Petrov,
+	Dmitri and Puzar, Lovro},
+  title = {TAO: how facebook serves the social graph},
+  booktitle = {Proceedings of the 2012 ACM SIGMOD International Conference on Management
+	of Data},
+  year = {2012},
+  series = {SIGMOD '12},
+  pages = {791--792},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2213957},
+  doi = {10.1145/2213836.2213957},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/TAO\: How Facebook Serves the Social Graph.pdf:PDF},
+  isbn = {978-1-4503-1247-9},
+  keywords = {distributed systems, facebook, social graph, tao},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {2},
+  url = {http://doi.acm.org/10.1145/2213836.2213957}
+}
+
+@INPROCEEDINGS{Wang2011,
+  author = {Wang, Peng and Smeaton, Alan F.},
+  title = {Aggregating semantic concepts for event representation in lifelogging},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {8:1--8:6},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {1999307},
+  articleno = {8},
+  doi = {10.1145/1999299.1999307},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Aggregating Semantic Concepts for Event Representation in Lifelogging.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {concept aggregation, concept interestingness, keyframe selection,
+	semantic fusion, visual lifelogging},
+  location = {Athens, Greece},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/1999299.1999307}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
