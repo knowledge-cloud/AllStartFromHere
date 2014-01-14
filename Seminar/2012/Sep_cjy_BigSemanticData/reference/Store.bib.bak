@@ -1,0 +1,381 @@
+% This file was created with JabRef 2.7.
+% Encoding: UTF8
+
+@INPROCEEDINGS{Abadi2007,
+  author = {Daniel J. Abadi and Adam Marcus and Barton Data},
+  title = {Scalable semantic web data management using vertical partitioning},
+  booktitle = {In VLDB},
+  year = {2007},
+  pages = {411--422},
+  __markedentry = {[jychen:5]}
+}
+
+@ARTICLE{Abadi2009,
+  author = {Abadi, Daniel J. and Marcus, Adam and Madden, Samuel R. and Hollenbach,
+	Kate},
+  title = {SW-Store: a vertically partitioned DBMS for Semantic Web data management},
+  journal = {The VLDB Journal},
+  year = {2009},
+  volume = {18},
+  pages = {385--406},
+  number = {2},
+  month = apr,
+  __markedentry = {[jychen:5]},
+  acmid = {1527469},
+  address = {Secaucus, NJ, USA},
+  doi = {10.1007/s00778-008-0125-y},
+  file = {:/home/jychen/Documents/BigSemanticData/VLDB/SW-Store\: a vertically partitioned DBMS for Semantic Web data management.pdf:PDF},
+  issn = {1066-8888},
+  issue_date = {April 2009},
+  numpages = {22},
+  publisher = {Springer-Verlag New York, Inc.},
+  url = {http://dx.doi.org/10.1007/s00778-008-0125-y}
+}
+
+@INPROCEEDINGS{Angelou2012,
+  author = {Angelou, Evangelos and Papailiou, Nikolaos and Konstantinou, Ioannis
+	and Tsoumakos, Dimitrios and Koziris, Nectarios},
+  title = {Automatic scaling of selective SPARQL joins using the TIRAMOLA system},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {1:1--1:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:4]},
+  acmid = {2237868},
+  articleno = {1},
+  doi = {10.1145/2237867.2237868},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Automatic Scaling of Selective SPARQL Joins Using the TIRMOLA System.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237868}
+}
+
+@INPROCEEDINGS{Cure2011,
+  author = {Olivier Cure},
+  title = {Ontology Based Data Integration Over Document and Column Family Oriented
+	NoSQL stores},
+  booktitle = {The 7th International Workshop on Scalable Semantic Web Knowledge
+	Base Systems (SSWS2011)},
+  year = {2011},
+  __markedentry = {[jychen:2]},
+  abstract = {In the last years, reasoning over very large ontologies became more
+	and more important. In our contribution, we propose a reasoning infrastructure,
+	which can perform instance checking and instance retrieval over ontologies
+	with semi-expressive terminological knowledge and large assertional
+	parts.The key idea is to 1) use modularizations of the assertional
+	part, 2) use some kind of intermediate structure to find similarities
+	between individual modules, and 3) store information efficiently
+	on external memory. For evaluation purposes, experiments on benchmark
+	and real world ontologies were carried out. We show that our reasoning
+	infrastructure can handle up to 1 billion ABox assertions. To the
+	best of our knowledge this is the first system to provide sound and
+	complete reasoning over SHI ontologies with such a huge number of
+	assertions.},
+  file = {:/home/jychen/Documents/BigSemanticData/ISWC/Ontology Based Data Integration Over Document and Column Family Oriented NOSQL.pdf:PDF},
+  url = {http://data.semanticweb.org/workshop/ssws/2011/paper/8}
+}
+
+@INPROCEEDINGS{Fernandez2012,
+  author = {Fern\'{a}ndez, Javier D.},
+  title = {Binary RDF for scalable publishing, exchanging and consumption in
+	the web of data},
+  booktitle = {Proceedings of the 21st international conference companion on World
+	Wide Web},
+  year = {2012},
+  series = {WWW '12 Companion},
+  pages = {133--138},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {2187997},
+  doi = {10.1145/2187980.2187997},
+  file = {:/home/jychen/Documents/BigSemanticData/WWW/Binary RDF for Scalable Publishing, Exchanging and Consumption in the Web of Data.pdf:PDF},
+  isbn = {978-1-4503-1230-1},
+  keywords = {compression, indexing, web of data},
+  location = {Lyon, France},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/2187980.2187997}
+}
+
+@INPROCEEDINGS{Fernandez2010,
+  author = {Fern\'{a}ndez, Javier D. and Mart\'{\i}nez-Prieto, Miguel A. and
+	Gutierrez, Claudio},
+  title = {Compact representation of large RDF data sets for publishing and
+	exchange},
+  booktitle = {Proceedings of the 9th international semantic web conference on The
+	semantic web - Volume Part I},
+  year = {2010},
+  series = {ISWC'10},
+  pages = {193--208},
+  address = {Berlin, Heidelberg},
+  publisher = {Springer-Verlag},
+  __markedentry = {[jychen:1]},
+  acmid = {1940295},
+  file = {:/home/jychen/Documents/BigSemanticData/ISWC/Compact Representation of Large RDF Data Sets for Publishing and Exchange.pdf:PDF},
+  isbn = {3-642-17745-X, 978-3-642-17745-3},
+  location = {Shanghai, China},
+  numpages = {16},
+  url = {http://dl.acm.org/citation.cfm?id=1940281.1940295}
+}
+
+@INPROCEEDINGS{H.Muhleisen2010,
+  author = {H. Muhleisen, T. Walther, A. Augustin, M. Harasic and R. Tolksdorf},
+  title = {Conﬁguring a Self-Organized Semantic Storage Service},
+  year = {2010},
+  file = {:/home/jychen/Documents/BigSemanticData/ISWC/Conﬁguring a Self-Organized Semantic Storage Service.pdf:PDF}
+}
+
+@ARTICLE{Huang2011,
+  author = {Jiewen Huang and Daniel J. Abadi and Kun Ren},
+  title = {Scalable SPARQL Querying of Large RDF Graphs},
+  journal = {PVLDB},
+  year = {2011},
+  volume = {4},
+  pages = {1123-1134},
+  number = {11},
+  __markedentry = {[jychen:5]},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  ee = {http://www.vldb.org/pvldb/vol4/p1123-huang.pdf},
+  file = {:/home/jychen/Documents/BigSemanticData/VLDB/Scalable SPARQL Querying of Large RDF Graphs.pdf:PDF}
+}
+
+@INPROCEEDINGS{Konstantinou2012,
+  author = {Konstantinou, Ioannis and Angelou, Evangelos and Tsoumakos, Dimitrios
+	and Boumpouka, Christina and Koziris, Nectarios and Sioutas, Spyros},
+  title = {TIRAMOLA: elastic nosql provisioning through a cloud management platform},
+  booktitle = {Proceedings of the 2012 ACM SIGMOD International Conference on Management
+	of Data},
+  year = {2012},
+  series = {SIGMOD '12},
+  pages = {725--728},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:4]},
+  acmid = {2213943},
+  doi = {10.1145/2213836.2213943},
+  isbn = {978-1-4503-1247-9},
+  keywords = {automatic cluster resize, cloud monitoring, elasticity, markov decision
+	process, nosql, open-source},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {4},
+  url = {http://doi.acm.org/10.1145/2213836.2213943}
+}
+
+@INPROCEEDINGS{Konstantopoulos2011,
+  author = {Konstantopoulos, Stasinos and Archer, Phil},
+  title = {POWDER and the multi million-triple store},
+  booktitle = {Proceedings of the International Workshop on Semantic Web Information
+	Management},
+  year = {2011},
+  series = {SWIM '11},
+  pages = {2:1--2:6},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {1999301},
+  articleno = {2},
+  doi = {10.1145/1999299.1999301},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/POWDER and the Multi Million-Triple Store.pdf:PDF},
+  isbn = {978-1-4503-0651-5},
+  keywords = {POWDER, RDF, efficient storage},
+  location = {Athens, Greece},
+  numpages = {6},
+  url = {http://doi.acm.org/10.1145/1999299.1999301}
+}
+
+@INPROCEEDINGS{Ladwig2011,
+  author = {Gunter Ladwig and Andreas Harth},
+  title = {CumulusRDF: Linked Data Management on Nested Key-Value Stores},
+  booktitle = {The 7th International Workshop on Scalable Semantic Web Knowledge
+	Base Systems (SSWS2011)},
+  year = {2011},
+  __markedentry = {[jychen:2]},
+  abstract = {SAQ (Semantic Archive and Query) is a system for long-term preservation
+	and querying of relational data in terms of RDF. In SAQ relational
+	data in a back-end DBMS is exposed as an RDF view, called the RD-view.
+	SAQ can process arbitrary SPARQL queries to the RD-view. Long-term
+	preservation as RDF of selected parts of a relational database is
+	specified by SPARQL queries to the RD-view. Such queries usually
+	select sets of RDF properties and thus in the query definition a
+	property p is unknown. We call such queries unbound-property queries.
+	This class of queries is also present in the SPARQL benchmarks. We
+	optimize unbound-property queries by introducing a query transformation
+	algorithm called Group Common Terms, GCT. It pulls out from a DNF
+	normalized query those common terms that can be translated to SQL
+	predicates accessing the relational database. Our experiments using
+	the Berlin SPARQL benchmark show that GCT improves substantially
+	the query execution time to a back-end commercial relational DBMS
+	for both selective and unselective unbound-property queries. We compared
+	the performance of our approach with the performance of other systems
+	processing SPARQL queries over views of relational databases and
+	showed that GCT improves scalability compared to the approaches used
+	by the other systems.},
+  file = {:/home/jychen/Documents/BigSemanticData/ISWC/CumulusRDF\: Linked Data Management on Nested Key-Value Stores.pdf:PDF},
+  url = {http://data.semanticweb.org/workshop/ssws/2011/paper/4}
+}
+
+@INPROCEEDINGS{LePendu2010,
+  author = {LePendu, Paea and Noy, Natalya F. and Jonquet, Clement and Alexander,
+	Paul R. and Shah, Nigam H. and Musen, Mark A.},
+  title = {Optimize first, buy later: analyzing metrics to ramp-up very large
+	knowledge bases},
+  booktitle = {Proceedings of the 9th international semantic web conference on The
+	semantic web - Volume Part I},
+  year = {2010},
+  series = {ISWC'10},
+  pages = {486--501},
+  address = {Berlin, Heidelberg},
+  publisher = {Springer-Verlag},
+  __markedentry = {[jychen:1]},
+  acmid = {1940313},
+  file = {:/home/jychen/Documents/BigSemanticData/ISWC/Optimize First, Buy Later\: Analyzing Metrics to Ramp-up Very Large Knowledge Bases.pdf:PDF},
+  isbn = {3-642-17745-X, 978-3-642-17745-3},
+  location = {Shanghai, China},
+  numpages = {16},
+  url = {http://dl.acm.org/citation.cfm?id=1940281.1940313}
+}
+
+@INPROCEEDINGS{Mulay2012,
+  author = {Mulay, Kunal and Kumar, P. Sreenivasa},
+  title = {SPOVC: a scalable RDF store using horizontal partitioning and column
+	oriented DBMS},
+  booktitle = {Proceedings of the 4th International Workshop on Semantic Web Information
+	Management},
+  year = {2012},
+  series = {SWIM '12},
+  pages = {8:1--8:8},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:5]},
+  acmid = {2237875},
+  articleno = {8},
+  doi = {10.1145/2237867.2237875},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/SPOVC\: A scalable RDF store using horizontal partitioning and column oriented DBMS.pdf:PDF},
+  isbn = {978-1-4503-1446-6},
+  location = {Scottsdale, Arizona},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/2237867.2237875}
+}
+
+@INPROCEEDINGS{Papailiou2012,
+  author = {Nikolaos Papailiou and Ioannis Konstantinou and Dimitrios Tsoumakos
+	and Nectarios Koziris},
+  title = {H2RDF: Adaptive Query Processing on RDF Data in the Cloud},
+  booktitle = {21st International World Wide Web Conference (WWW2012)},
+  year = {2012},
+  __markedentry = {[jychen:4]},
+  abstract = {In this work we present H2RDF, a fully distributed RDFstore that combines
+	the MapReduce processing frameworkwith a NoSQL distributed data store.
+	Our system featurestwo unique characteristics that enable efficient
+	processingof both simple and multi-join SPARQL queries on virtuallyunlimited
+	number of triples: A query planner that enablesadaptive decisions
+	over both the join order as well as thejoin execution; and join algorithms
+	that execute joins according to query selectivity to reduce processing.
+	We haveevaluated H2RDF against state-of-the-art RDF stores: Oursystem
+	achieves the best of both worlds, answering simplejoins as fast as
+	centralized stores and greatly outperformingboth distributed and
+	centralized schemes for large, multiple-join queries. In this demonstration
+	we showcase the system'sfunctionality through an interactive GUI.
+	Users will be ableto execute predefined or custom-made SPARQL queries
+	ondatasets of different sizes, using different join algorithms.Moreover,
+	they can repeat all queries utilizing a differentnumber of cluster
+	resources. Using real-time cluster monitoring and detailed statistics,
+	participants will be able tounderstand the advantages of different
+	execution schemesversus the input data as well as the scalability
+	properties ofH2RDF over both the data size and the available workerresources.},
+  file = {:/home/jychen/Documents/BigSemanticData/WWW/H2RDF\: Adaptive Query Processing on RDF Data in the Cloud.pdf:PDF},
+  url = {http://data.semanticweb.org/conference/www/2012/demo/36}
+}
+
+@INPROCEEDINGS{Preda2010,
+  author = {Preda, Nicoleta and Kasneci, Gjergji and Suchanek, Fabian M. and
+	Neumann, Thomas and Yuan, Wenjun and Weikum, Gerhard},
+  title = {Active knowledge: dynamically enriching RDF knowledge bases by web
+	services},
+  booktitle = {Proceedings of the 2010 ACM SIGMOD International Conference on Management
+	of data},
+  year = {2010},
+  series = {SIGMOD '10},
+  pages = {399--410},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:1]},
+  acmid = {1807212},
+  doi = {10.1145/1807167.1807212},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/Active Knowledge\: Dynamically Enriching RDF Knowledge Bases by Web Servics.pdf:PDF},
+  isbn = {978-1-4503-0032-2},
+  keywords = {binding patterns, information integration, knowledge bases, query
+	mediation, rdf, semantics, warehousing},
+  location = {Indianapolis, Indiana, USA},
+  numpages = {12},
+  url = {http://doi.acm.org/10.1145/1807167.1807212}
+}
+
+@INPROCEEDINGS{Venkataramani2012,
+  author = {Venkataramani, Venkateshwaran and Amsden, Zach and Bronson, Nathan
+	and Cabrera III, George and Chakka, Prasad and Dimov, Peter and Ding,
+	Hui and Ferris, Jack and Giardullo, Anthony and Hoon, Jeremy and
+	Kulkarni, Sachin and Lawrence, Nathan and Marchukov, Mark and Petrov,
+	Dmitri and Puzar, Lovro},
+  title = {TAO: how facebook serves the social graph},
+  booktitle = {Proceedings of the 2012 ACM SIGMOD International Conference on Management
+	of Data},
+  year = {2012},
+  series = {SIGMOD '12},
+  pages = {791--792},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  __markedentry = {[jychen:2]},
+  acmid = {2213957},
+  doi = {10.1145/2213836.2213957},
+  file = {:/home/jychen/Documents/BigSemanticData/SIGMOD/TAO\: How Facebook Serves the Social Graph.pdf:PDF},
+  isbn = {978-1-4503-1247-9},
+  keywords = {distributed systems, facebook, social graph, tao},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {2},
+  url = {http://doi.acm.org/10.1145/2213836.2213957}
+}
+
+@ARTICLE{Weiss2008,
+  author = {Weiss, Cathrin and Karras, Panagiotis and Bernstein, Abraham},
+  title = {Hexastore: sextuple indexing for semantic web data management},
+  journal = {Proc. VLDB Endow.},
+  year = {2008},
+  volume = {1},
+  pages = {1008--1019},
+  number = {1},
+  month = aug,
+  __markedentry = {[jychen:3]},
+  acmid = {1453965},
+  doi = {10.1145/1453856.1453965},
+  file = {:/home/jychen/Documents/BigSemanticData/VLDB/Hexastore\: Sextuple Indexing for Semantic Web Data Management.pdf:PDF},
+  issn = {2150-8097},
+  issue_date = {August 2008},
+  numpages = {12},
+  publisher = {VLDB Endowment},
+  url = {http://dx.doi.org/10.1145/1453856.1453965}
+}
+
+@INPROCEEDINGS{Wylot2011,
+  author = {Marcin Wylot and Jigé Pont and Mariusz Wisniewski and Philippe Cudré-Mauroux},
+  title = {dipLODocus[RDF] - Short and Long-Tail RDF Analytics for Massive Webs
+	of Data},
+  booktitle = {International Semantic Web Conference (1)'11},
+  year = {2011},
+  pages = {778-793},
+  file = {:/home/jychen/Documents/BigSemanticData/ISWC/dipLODocus[RDF] | Short and Long-Tail RDF Analytics for Massive Webs of Data.pdf:PDF}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
