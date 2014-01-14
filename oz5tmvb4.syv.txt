@@ -1,0 +1,71 @@
+﻿Revert "add Peiqin's slides"
+
+This reverts commit 0884f18aca4a5f684db9ccf2e5a210902ed22143.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	deleted:    "Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/Formalization of 2-D Spatial Ontology and OWL Prote\314\201ge\314\201 Realization.pdf"
+#	deleted:    Seminar/2013/A Distributed Graph Engine for Web Scale RDF--Peiqin.pptx
+#	deleted:    Seminar/2013/From Vagueness in Medical Thought to the Foundations--Peiqin.pptx
+#	deleted:    Seminar/2013/KR meets biomedicine.pptx
+#	deleted:    Seminar/2013/Knowledge Graph Identification-peiqin.pptx
+#	deleted:    Seminar/2013/Managing and Mining Large Graphs--Peiqin.pptx
+#	deleted:    Seminar/2013/Semantic Parsing on Freebase from Question-Answer Pairs--Peiqin.pptx
+#	deleted:    "Seminar/2013/Spanner-Google\342\200\231s Globally-Distributed Database.pptx"
+#	deleted:    Seminar/2013/YAGO2--Peiqin.pptx
+#	deleted:    Seminar/2013/amie-Peiqin.pptx
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    Seminar/2012/Sep_cjy_BigSemanticData/ISWC/dipLODocus[RDF] | Short and Long-Tail RDF Analytics for Massive Webs of Data.pdf
+#	deleted:    Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/What are real SPARQL queries like?.pdf
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/4store
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/Avalanche
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/B+Hash Tree
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/CumulusRDF
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/Optimize First, Buy Later
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/RDFMatView
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/SAOR
+#	Seminar/2012/Sep_cjy_BigSemanticData/ISWC/Talking about Data
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/Active Knowledge
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/Apples and Oranges
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/DBWiki
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/Facet Discovery for Structured Web Search
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/Pay-as-you-go Data Integration for Linked Data
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/PigSPARQL
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/SAOR
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/SPOVC
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/TAO
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/TIRMOLA
+#	Seminar/2012/Sep_cjy_BigSemanticData/SIGMOD/To nest or not to nest, when and how much
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/ASTERIX
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/AgreementMaker
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/CloudVista
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/From SPARQL to MapReduce
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/Hexastore
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/Interactive Analytical Processing in Big Data Systems
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/RDF-3X
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/SMDM
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/SW-Store
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/gStore
+#	Seminar/2012/Sep_cjy_BigSemanticData/VLDB/x-RDF-3X
+#	Seminar/2012/Sep_cjy_BigSemanticData/WWW/EP-SPARQL
+#	Seminar/2012/Sep_cjy_BigSemanticData/WWW/H2RDF
+#	Seminar/2012/Sep_cjy_BigSemanticData/WWW/LINDEN
+#	Seminar/2012/Sep_cjy_BigSemanticData/WWW/Semantic Navigation on the Web of Data
+#	Seminar/2012/Sep_cjy_BigSemanticData/cloud_semantic/Towards LarKC
+#	Seminar/2014/
+
